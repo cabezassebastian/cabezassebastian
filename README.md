@@ -63,7 +63,7 @@
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img alt="SQL Server" src="[https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)">
+    <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927">
   </a>
 </p>
 
