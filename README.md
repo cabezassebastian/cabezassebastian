@@ -22,8 +22,6 @@
 
 <h2> 🛠 Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width=32px> </h2>
 
-<h2> 🛠 Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width=32px> </h2>
-
 <p align="center">
   <a href="https://react.dev/" target="_blank">
     <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
