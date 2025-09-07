@@ -22,52 +22,30 @@
 
 <h2> 🛠 Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width=32px> </h2>
 
-<h2> 🛠 Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width=32px> </h2>
-
 <p align="center">
-  <a href="https://react.dev/" target="_blank">
-    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  </a>
-  <a href="https://vitejs.dev/" target="_blank">
-    <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  </a>
-  <a href="https://reactrouter.com/" target="_blank">
-    <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
-  </a>
-  <a href="https://clerk.com/" target="_blank">
-    <img alt="Clerk" src="https://img.shields.io/badge/Clerk-3B82F6?style=for-the-badge&logo=clerk&logoColor=white">
-  </a>
-  <a href="https://supabase.com/" target="_blank">
-    <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
-  </a>
-  <a href="https://stripe.com/" target="_blank">
-    <img alt="Stripe" src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white">
-  </a>
-  <a href="https://vercel.com/" target="_blank">
-    <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank">
-    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
-  </a>
+  <a href="https://react.dev/" target="_blank"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+  <a href="https://vitejs.dev/" target="_blank"><img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
+  <a href="https://reactrouter.com/" target="_blank"><img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"></a>
+  <a href="https://clerk.com/" target="_blank"><img alt="Clerk" src="https://img.shields.io/badge/Clerk-3B82F6?style=for-the-badge&logo=clerk&logoColor=white"></a>
+  <a href="https://supabase.com/" target="_blank"><img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"></a>
+  <a href="https://stripe.com/" target="_blank"><img alt="Stripe" src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white"></a>
+  <a href="https://vercel.com/" target="_blank"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+
+  <!-- Java -->
+  <a href="https://www.java.com/" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
+
+  <a href="https://www.sqlite.org/" target="_blank"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+
+  <!-- SQL Server (fallback to microsoft logo) -->
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft&logoColor=white"></a>
 </p>
+
 
 
 
