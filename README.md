@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<a href="https://www.linkedin.com/in/tu-linkedin/" target="_blank">
+<a href="https://www.linkedin.com/in/sebastian-cabezas-quispe-26005b344/" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>   
 
