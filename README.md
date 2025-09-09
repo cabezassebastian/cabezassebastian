@@ -54,6 +54,9 @@
 <!-- Backend & Auth -->
 <h3> ⚙️ Backend & Auth </h3>
 <p align="center">
+  <a href="https://nodejs.org/" target="_blank">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+  </a>
   <a href="https://clerk.com/" target="_blank">
     <img alt="Clerk" src="https://img.shields.io/badge/Clerk-3B82F6?style=for-the-badge&logo=clerk&logoColor=white">
   </a>
@@ -78,7 +81,7 @@
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft&logoColor=white">
+    <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
   </a>
 </p>
 
@@ -96,6 +99,9 @@
   <a href="https://git-scm.com/" target="_blank">
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  </a>
   <a href="https://pnpm.io/" target="_blank">
     <img alt="pnpm" src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white">
   </a>
@@ -103,6 +109,7 @@
     <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
   </a>
 </p>
+
 
 
 <h2> GitHub Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width=35px> </h2>
