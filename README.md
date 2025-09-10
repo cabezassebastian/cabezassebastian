@@ -11,8 +11,8 @@
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>   
 
-<a href="https://mercadillo.vercel.app" target="_blank">
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+<a href="https://www.mercadillo.app" target="_blank">
+  <img alt="Mercadillo" src="https://img.shields.io/badge/Mercadillo.app-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
 
 - 👋 Hi, I’m Sebastian  
