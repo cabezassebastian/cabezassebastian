@@ -91,7 +91,11 @@
   <a href="https://vercel.com/" target="_blank">
     <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
+  <a href="https://www.name.com/" target="_blank">
+    <img alt="Name.com" src="https://img.shields.io/badge/Name.com-2C5BB4?style=for-the-badge&logo=Namecheap&logoColor=white">
+  </a>
 </p>
+
 
 <!-- Tools -->
 <h3> 🔧 Tools </h3>
