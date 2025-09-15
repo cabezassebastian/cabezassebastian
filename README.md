@@ -20,7 +20,9 @@
 - ⚡ Focused on React, Vite and Supabase  
 - 🚀 Check out my project: [Mercadillo](https://github.com/cabezassebastian/Mercadillo)
 
-<h2> 🛠 Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width=32px> </h2>
+<h2> 🛠 Skills 
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px" alt="tools">
+</h2>
 
 <!-- Frontend -->
 <h3> 🎨 Frontend </h3>
@@ -95,7 +97,6 @@
     <img alt="Name.com" src="https://img.shields.io/badge/Name.com-2C5BB4?style=for-the-badge&logo=Namecheap&logoColor=white">
   </a>
 </p>
-
 
 <!-- Tools -->
 <h3> 🔧 Tools </h3>
