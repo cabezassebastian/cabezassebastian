@@ -124,9 +124,9 @@
   <p align="center">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=cabezassebastian&show_icons=true&count_private=true&theme=algolia" height="192px"/>
 
-    <br><br>
+  <br><br>
 
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=cabezassebastian&layout=compact&theme=algolia" height="192px"/>
+   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=cabezassebastian&layout=compact&theme=algolia" height="192px"/>
   </p>
 </details>
 
