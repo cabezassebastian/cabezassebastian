@@ -116,25 +116,27 @@
 
 
 
-<h2> GitHub Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width=35px> </h2>
+<!-- Puedes copiar y pegar este bloque en tu perfil de GitHub -->
+
+GitHub Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35">
 
 <details>
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="Sebastian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cabezassebastian&show_icons=true&count_private=true&theme=algolia" height="192px"/>
-    </a>
-    <br/>
-    &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cabezassebastian&show_icons=true&locale=en&layout=compact&theme=algolia" alt="cabezassebastian" height="192px"/>
-    <br/>
-  </p>
+<summary><b>💻 GitHub Profile Stats</b> (Haz click para desplegar)</summary>
+
+
+
+
+
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img alt="Sebastian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cabezassebastian&show_icons=true&count_private=true&theme=algolia" height="192"/>
+</a>
+
+
+
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=cabezassebastian&show_icons=true&locale=en&layout=compact&theme=algolia" alt="cabezassebastian" height="192"/>
+</p>
 </details>
 
-<br/>
-
-## 🚀 Featured Project
-<a href="https://github.com/cabezassebastian/Mercadillo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cabezassebastian&repo=Mercadillo&theme=onedark" />
-</a>
