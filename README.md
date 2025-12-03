@@ -18,7 +18,6 @@
 - 👋 Hi, I’m Sebastian  
 - 💻 Passionate about building modern web apps  
 - ⚡ Focused on React, Vite and Supabase  
-- 🚀 Check out my project: [Mercadillo](https://github.com/cabezassebastian/Mercadillo)
 
 <h2> 🛠 Skills 
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px" alt="tools">
