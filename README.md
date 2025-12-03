@@ -116,20 +116,17 @@
 
 
 
-<h2> GitHub Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width=35px> </h2>
+<h2> GitHub Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35px"> </h2>
 
 <details>
   <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
+  <br>
   <p align="center">
-    <a href="https://github.com/cabezassebastian/github-readme-stats">
-      <img alt="Sebastian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cabezassebastian&show_icons=true&count_private=true&theme=algolia" height="192px"/>
-    </a>
-    <br/>
-    &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cabezassebastian&show_icons=true&locale=en&layout=compact&theme=algolia" alt="cabezassebastian" height="192px"/>
-    <br/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=cabezassebastian&show_icons=true&count_private=true&theme=algolia" height="192px"/>
+
+    <br><br>
+
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=cabezassebastian&layout=compact&theme=algolia" height="192px"/>
   </p>
 </details>
 
-<br/>
